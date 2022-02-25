@@ -1,9 +1,14 @@
 ---
 title: Guerra de estables
+description: El crecimiento brutal de las monedas estables ha generado una
+  batalla entre aplicaciones del espacio DeFi.
 author: Ladron de Guevara
-tags: ["featured", "post"]
 date: 2022-02-06
-description: El crecimiento brutal de las monedas estables ha generado una batalla entre aplicaciones del espacio DeFi.
+"tags ":
+  - featured
+tags:
+  - featured
+  - post
 image: https://miro.medium.com/max/1400/1*tihkIm-tv0qlzEYnRXChpw.jpeg
 imagAlt: Batalla entre protocolos con monedas estables
 ---
