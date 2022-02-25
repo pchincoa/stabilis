@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Blog</title>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="stylesheet" href="/style.css" />
+    <script
+      defer
+      src="https://identity.netlify.com/v1/netlify-identity-widget.js"
+    ></script>
+  </head>
+
+  <body>
+     <header class="page-header">
+  <div class="container">
+    <div class="page-header__content">
+      <div class="blogname">
+        <a href="https://defiestable.com/"><h4>DeFi & Monedas Estables</h4></a>
+      </div>
+      <nav>
+        <ul role="list" class="nav-list flex-group">
+          <li>
+            <a href="/bio">Bio</a>
+          </li>
+          <li>
+            <a href="/blog">Blog</a>
+          </li>
+          <li></li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>
+
+    <main>
+      
+<div class="section container">
+  <h1 class="section-title">Últimas entradas</h1>
+  <ul role="list" class="articles__list flow"><li>
+  <article class="snippet">
+    <img src="/assets/blog/e-money-brand-promo.jpg" alt="" class="snippet__image">
+    <h3 class="snippet__title">
+      <a href="/blog/2022-02-25-e-money-monedas-estables-europa-y-nueva-generación/">e-Money: monedas estables, Europa y nueva generación</a>
+    </h3>
+    <p class="snippet__meta">por <span>Pedro Aznar</p>
+      <p class="snippet__body">Fundada en 2016 por una empresa danesa de tecnología financiera, e-Money es una plataforma de pagos basada en la cadena de bloques que tiene como objetivo salvar el sistema bancario heredado con una única capa eficiente de cadena de bloques.</p>
+      <a href="/blog/2022-02-25-e-money-monedas-estables-europa-y-nueva-generación/" class= "btn btn--primary"> Leer más</a>
+
+    </article>
+  </li><li>
+  <article class="snippet">
+    <img src="https://miro.medium.com/max/1400/1*tihkIm-tv0qlzEYnRXChpw.jpeg" alt="" class="snippet__image">
+    <h3 class="snippet__title">
+      <a href="/blog/2022-02-24-guerra-de-estables/">Guerra de estables</a>
+    </h3>
+    <p class="snippet__meta">por <span>Ladron de Guevara</p>
+      <p class="snippet__body">El crecimiento brutal de las monedas estables ha generado una batalla entre aplicaciones del espacio DeFi.</p>
+      <a href="/blog/2022-02-24-guerra-de-estables/" class= "btn btn--primary"> Leer más</a>
+
+    </article>
+  </li></ul>
+
+</div>
+
+ 
+    </main>
+    <footer class="site-footer">
+    <p>© BV Digital Capital 2022</a></p>
+</footer>
+
+
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", (user) => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
+  </body>
+</html>
