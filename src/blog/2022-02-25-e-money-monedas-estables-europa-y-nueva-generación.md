@@ -1,5 +1,5 @@
 ---
-title: "e-Money: monedas estables, Europa y nueva generación"
+title: "e-Money: la nueva generación del dinero digital"
 description: Fundada en 2016 por una empresa danesa de tecnología financiera,
   e-Money es una plataforma de pagos basada en la cadena de bloques que tiene
   como objetivo salvar el sistema bancario heredado con una única capa eficiente
