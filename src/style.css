@@ -92,11 +92,6 @@ picture {
   display: block;
 }
 
-h4,
-a {
-  text-decoration: none;
-}
-
 /* Inherit fonts for inputs and buttons */
 input,
 button,
@@ -209,16 +204,15 @@ section,
   justify-content: space-between;
 }
 
-.logo-container {
-  width: 99%;
+.logo-container a {
+  display: block;
+  width: 200px;
   height: 60px;
   background-image: url(./assets/icons/defiestable-logo.svg);
   background-size: contain;
-  background-position: left;
+  background-position: left center;
   background-repeat: no-repeat;
 }
-
-
 
 .nav-list {
   margin: 0;
