@@ -13,7 +13,7 @@
   --fw-900: 900;
 
   --clr-primary-200: hsla(169, 70%, 95%, 1);
-  --clr-primary-300: hsla(169, 100%, 39%, 1);
+  --clr-primary-300: #00c7a2;
   --clr-primary-400: hsla(169, 100%, 26%, 1);
   --clr-primary-500: hsla(169, 100%, 16%, 1);
 
@@ -90,6 +90,11 @@ img,
 picture {
   max-width: 100%;
   display: block;
+}
+
+h4,
+a {
+  text-decoration: none;
 }
 
 /* Inherit fonts for inputs and buttons */
@@ -201,8 +206,43 @@ section,
 .page-header__content {
   display: flex;
   height: 2vh;
-
   justify-content: space-between;
+}
+
+#logo {
+  width: 5vw;
+  height: 5vh;
+}
+.logo-container {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+
+.logo-container img {
+  height: 5vh;
+  position: relative;
+  bottom: 1.2vh;
+}
+
+.blog-description {
+  padding-left: 1rem;
+  max-width: 25rem;
+  color: var(--clr-neutral-900);
+  text-decoration: none !important;
+}
+
+.blog-description {
+  max-width: 25rem;
+  color: var(--clr-neutral-900);
+  text-decoration: none;
+}
+
+.blog-description a:focus,
+.blog-description a:hover {
+  max-width: 20rem;
+  color: var(--clr-primary-400);
+  text-decoration: underline;
 }
 
 .nav-list {
@@ -214,21 +254,9 @@ section,
   color: var(--clr-neutral-900);
   text-decoration: none;
 }
-.blogname a {
-  color: var(--clr-neutral-900);
-  text-decoration: none;
-  background: aqua;
-  font-size: large;
-}
 
 .nav-list a:focus,
 .nav-list a:hover {
-  color: var(--clr-primary-400);
-  text-decoration: underline;
-}
-
-.blogname a:focus,
-.blogname a:hover {
   color: var(--clr-primary-400);
   text-decoration: underline;
 }
