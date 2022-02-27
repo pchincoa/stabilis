@@ -22,10 +22,8 @@ layout: base.njk
 
 <section id="destacados" class="featured-articles">
   <div class="container flow">
-    <h2 class="section-title text-center">Lo último de la semana</h2>
-    <p class="text-center">
-      Artículo <strong> DeFinpm  & Monedas Estables</strong> destacado
-    </p>
+    <h2 class="section-title text-center">Lo último</h2>
+    <!-- <p class="text-center">Caliente: lo último de la semana.</p> -->
     <ul role="list" class="articles__list flow">
       {%- for post in collections.featured | reverse -%} {% include
       'article-snippet.njk' %} {%- endfor -%}
