@@ -1,5 +1,5 @@
 ---
-title: Jump y Three Arrows lideran la compra de LUNA por $1.000B
+title: Jump y Three Arrows lideran la compra de LUNA por $1B
 description: Luna Foundation Guard vendió 1.000 millones de dólares en LUNA, el
   token de gobierno de la blockchain de Terra, a Jump Crypto, Three Arrows
   Capital, DeFiance Capital y otros inversores.
