@@ -398,6 +398,10 @@ section,
   }
 }
 
+.blog-description {
+  font-size: medium;
+}
+
 .btn {
   cursor: pointer;
   text-decoration: none;
