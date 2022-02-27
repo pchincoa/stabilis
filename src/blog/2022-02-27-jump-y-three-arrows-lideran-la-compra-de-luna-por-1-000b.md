@@ -15,6 +15,8 @@ Las monedas estables  de Terra, fundamentalmente UST, estarán ahora respaldadas
 Mil millones de dólares en BTC serán reservados por la [Luna Foundation Guard ](https://lfg.org/missionandvision/)(LFG) para actuar como respaldo para UST y otras stablecoins de Terra en caso de que pierdan sus relaciones de paridad.
 
 **1.000 millones de dólares de LUNA**
+
+
 LFG vendió 1.000 millones de dólares en tokens LUNA, el token de gobierno de la blockchain de Terra, a Jump Crypto, Three Arrows Capital, DeFiance Capital y otros inversores. 
 
 LFG fue anunciada en enero, y es una fundación sin ánimo de lucro dedicada a promover "una mayor soberanía económica, seguridad y sostenibilidad del software de código abierto y aplicaciones que ayudan a construir y promover una economía verdaderamente descentralizada." Ofrece subvenciones en las áreas de desarrollo de código abierto, crecimiento de la comunidad e investigación y desarrollo.
@@ -22,6 +24,8 @@ LFG fue anunciada en enero, y es una fundación sin ánimo de lucro dedicada a p
 Al parecer, también gestiona fondos de reserva. 
 
 **Reserva de divisas**
+
+
 "La reserva de divisas de $UST es una iniciativa de LFG para proporcionar una capa más de apoyo a la paridad de $UST utilizando activos que se consideran menos correlacionados con el ecosistema de Terra, como Bitcoin",[ anunció hoy](https://twitter.com/terra_money/status/1496162893334827014) la cuenta oficial de Terra en Twitter.
 
 "Una crítica común a las monedas estables algorítmicas es su naturaleza reflexiva y el riesgo hipotético de un escenario de "corrida bancaria" en el que la demanda para vender la estable supera la oferta de una manera que causa la caída de precios compuesta en ambos tokens nativos", tuiteó la cuenta de Terra[ más tarde en el mismo hilo](https://twitter.com/terra_money/status/1496162891413737483). 
