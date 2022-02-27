@@ -209,10 +209,6 @@ section,
   justify-content: space-between;
 }
 
-#logo {
-  width: 5vw;
-  height: 5vh;
-}
 .logo-container {
   display: flex;
   flex-direction: row;
@@ -396,10 +392,6 @@ section,
     grid-template-columns: 1fr 40%;
     grid-template-rows: min-content min-content min-content 1fr;
   }
-}
-
-.blog-description {
-  font-size: medium;
 }
 
 .btn {
