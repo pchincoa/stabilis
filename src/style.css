@@ -21,7 +21,7 @@
   --clr-neutral-300: hsla(0, 0%, 50%, 1);
   --clr-neutral-400: hsla(0, 0%, 40%, 1);
   --clr-neutral-500: hsla(0, 0%, 60%, 1);
-  --clr-neutral-900: hsla(0, 0%, 10%, 1);
+  --clr-neutral-900: hsl(0, 0%, 10%);
 }
 
 @media (min-width: 35em) {
@@ -210,40 +210,22 @@ section,
 }
 
 .logo-container {
-  display: flex;
-  flex-direction: row;
-  max-width: 100%;
+  width: 99%;
+  height: 60px;
+  background-image: url(./assets/icons/defiestable-logo.svg);
+  background-size: contain;
+  background-position: left;
+  background-repeat: no-repeat;
 }
 
-.logo-container img {
-  height: 5vh;
-  position: relative;
-  bottom: 1.2vh;
-}
 
-.blog-description {
-  padding-left: 1rem;
-  max-width: 25rem;
-  color: var(--clr-neutral-900);
-  text-decoration: none !important;
-}
-
-.blog-description {
-  max-width: 25rem;
-  color: var(--clr-neutral-900);
-  text-decoration: none;
-}
-
-.blog-description a:focus,
-.blog-description a:hover {
-  max-width: 20rem;
-  color: var(--clr-primary-400);
-  text-decoration: underline;
-}
 
 .nav-list {
   margin: 0;
   padding: 0;
+  line-height: 60px;
+  display: flex;
+  flex-direction: row;
 }
 
 .nav-list a {
