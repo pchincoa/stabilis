@@ -44,26 +44,6 @@
   <ul role="list" class="articles__list flow"><li>
   <article class="snippet">
     <img
-      src="/assets/blog/terra-luna-burn.jpg"
-      alt=""
-      class="snippet__image"
-    />
-    <h3 class="snippet__title">
-      <a href="/blog/2022-02-27-jump-y-three-arrows-lideran-la-compra-de-luna-por-1-000b/">Jump y Three Arrows lideran la compra de LUNA por $1B</a>
-    </h3>
-
-    <p class="snippet__meta">
-      por <span>Jean Torres</span> el
-      <span class="snippet__meta"> 28 Feb, 2022</span>
-    </p>
-
-    <p class="snippet__body">Luna Foundation Guard vendió 1.000 millones de dólares en LUNA, el token de gobierno de la blockchain de Terra, a Jump Crypto, Three Arrows Capital, DeFiance Capital y otros inversores.</p>
-    <a href="/blog/2022-02-27-jump-y-three-arrows-lideran-la-compra-de-luna-por-1-000b/" class="btn btn--primary"> Leer más</a>
-  </article>
-</li>
-<li>
-  <article class="snippet">
-    <img
       src="https://cdn.sanity.io/images/6w0ip84a/production/a2f0cb51cd60050de05646357af53cfe89caecb0-3000x2000.jpg?auto=format&amp;h=1700&amp;q=100&amp;w=1700"
       alt=""
       class="snippet__image"
@@ -73,8 +53,9 @@
     </h3>
 
     <p class="snippet__meta">
-      por <span>Carlos Balbuena</span> el
-      <span class="snippet__meta"> 28 Feb, 2022</span>
+      por <span>Carlos Balbuena</span>
+      <!-- el
+      <span class="snippet__meta"> 01 Mar, 2022</span> -->
     </p>
 
     <p class="snippet__body">Fundada en 2016 por una empresa danesa de tecnología financiera, e-Money es una plataforma de pagos basada en la cadena de bloques que tiene como objetivo salvar el sistema bancario heredado con una única capa eficiente de cadena de bloques.</p>
@@ -93,12 +74,34 @@
     </h3>
 
     <p class="snippet__meta">
-      por <span>Ladrón de Guevara</span> el
-      <span class="snippet__meta"> 28 Feb, 2022</span>
+      por <span>Ladrón de Guevara</span>
+      <!-- el
+      <span class="snippet__meta"> 01 Mar, 2022</span> -->
     </p>
 
     <p class="snippet__body">El crecimiento brutal de las monedas estables ha generado una batalla entre aplicaciones del espacio DeFi.</p>
     <a href="/blog/2022-02-24-guerra-de-estables/" class="btn btn--primary"> Leer más</a>
+  </article>
+</li>
+<li>
+  <article class="snippet">
+    <img
+      src="/assets/blog/terra-luna-burn.jpg"
+      alt=""
+      class="snippet__image"
+    />
+    <h3 class="snippet__title">
+      <a href="/blog/2022-02-27-jump-y-three-arrows-lideran-la-compra-de-luna-por-1-000b/">Jump y Three Arrows lideran la compra de LUNA por $1B</a>
+    </h3>
+
+    <p class="snippet__meta">
+      por <span>Jean Torres</span>
+      <!-- el
+      <span class="snippet__meta"> 01 Mar, 2022</span> -->
+    </p>
+
+    <p class="snippet__body">Luna Foundation Guard vendió 1.000 millones de dólares en LUNA, el token de gobierno de la blockchain de Terra, a Jump Crypto, Three Arrows Capital, DeFiance Capital y otros inversores.</p>
+    <a href="/blog/2022-02-27-jump-y-three-arrows-lideran-la-compra-de-luna-por-1-000b/" class="btn btn--primary"> Leer más</a>
   </article>
 </li>
 </ul>
@@ -123,6 +126,26 @@
           }
         });
       }
+    </script>
+
+    <!-- AlgoliaSearch-netlify-frontend -->
+
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.css"
+    />
+    <script
+      type="text/javascript"
+      src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"
+    ></script>
+    <script type="text/javascript">
+      algoliasearchNetlify({
+        appId: "FMTIEI0ST4",
+        apiKey: "<YOUR_ALGOLIA_SEARCH_API_KEY>",
+        siteId: "1362a6ed-4013-4b08-8d33-ec465f3775a8",
+        branch: "main",
+        selector: "div#search",
+      });
     </script>
   </body>
 </html>

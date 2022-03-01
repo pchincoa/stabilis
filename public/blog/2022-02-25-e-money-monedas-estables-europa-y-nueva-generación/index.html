@@ -52,10 +52,19 @@
         
       </figcaption>
     </figure>
+    
+   
+
 
     <p>Fundada en 2016 por una empresa danesa de tecnología financiera, e-Money es una plataforma de pagos basada en la cadena de bloques que tiene como objetivo salvar el sistema bancario heredado con una eficiente capa única.<br>
-Construido sobre la tecnología Cosmos, el protocolo de <a href="https://e-money.com/">e-Money</a> está diseñado para la emisión de una gama de monedas estables que devengan intereses.</p>
+Construido sobre la tecnología de Cosmos, el protocolo de <a href="https://e-money.com/">e-Money</a> está diseñado para la emisión de una gama de monedas estables que devengan intereses.</p>
 
+    <div></div>
+    <a href="https://www.buymeacoffee.com/defiestable">
+      <img
+        src="https://img.buymeacoffee.com/button-api/?text=Se agradece un café &amp;emoji=&amp;&amp;button_colour=71c3a8&amp;font_colour=ffffff&amp;font_family=Inter&amp;outline_colour=000000&amp;coffee_colour=FFDD00"
+        alt="Cómprame un cafelito"
+    /></a>
   </div>
 </article>
 
@@ -76,6 +85,26 @@ Construido sobre la tecnología Cosmos, el protocolo de <a href="https://e-money
           }
         });
       }
+    </script>
+
+    <!-- AlgoliaSearch-netlify-frontend -->
+
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.css"
+    />
+    <script
+      type="text/javascript"
+      src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"
+    ></script>
+    <script type="text/javascript">
+      algoliasearchNetlify({
+        appId: "FMTIEI0ST4",
+        apiKey: "<YOUR_ALGOLIA_SEARCH_API_KEY>",
+        siteId: "1362a6ed-4013-4b08-8d33-ec465f3775a8",
+        branch: "main",
+        selector: "div#search",
+      });
     </script>
   </body>
 </html>

@@ -58,9 +58,9 @@
 
 <section id="destacados" class="featured-articles">
   <div class="container flow">
-    <h2 class="section-title text-center">Contenidos Básicos</h2>
+    <h2 class="section-title text-center">A B C DeFi</h2>
     <p class="text-center">
-      Artículo <strong> DeFi & Monedas Estables</strong> destacado
+      Artículo sobre <strong> Monedas Estables</strong> destacado
     </p>
     <ul role="list" class="articles__list flow"><li>
   <article class="snippet">
@@ -74,8 +74,9 @@
     </h3>
 
     <p class="snippet__meta">
-      por <span>Ladrón de Guevara</span> el
-      <span class="snippet__meta"> 15 Oct, 2020</span>
+      por <span>Ladrón de Guevara</span>
+      <!-- el
+      <span class="snippet__meta"> 15 Oct, 2020</span> -->
     </p>
 
     <p class="snippet__body">El crecimiento brutal de las monedas estables ha generado una batalla entre aplicaciones del espacio DeFi.</p>
@@ -103,6 +104,26 @@
           }
         });
       }
+    </script>
+
+    <!-- AlgoliaSearch-netlify-frontend -->
+
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.css"
+    />
+    <script
+      type="text/javascript"
+      src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"
+    ></script>
+    <script type="text/javascript">
+      algoliasearchNetlify({
+        appId: "FMTIEI0ST4",
+        apiKey: "<YOUR_ALGOLIA_SEARCH_API_KEY>",
+        siteId: "1362a6ed-4013-4b08-8d33-ec465f3775a8",
+        branch: "main",
+        selector: "div#search",
+      });
     </script>
   </body>
 </html>
