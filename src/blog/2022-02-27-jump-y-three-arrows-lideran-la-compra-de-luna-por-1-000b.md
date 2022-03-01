@@ -4,7 +4,7 @@ description: Luna Foundation Guard vendió 1.000 millones de dólares en LUNA, e
   token de gobierno de la blockchain de Terra, a Jump Crypto, Three Arrows
   Capital, DeFiance Capital y otros inversores.
 author: Jean Torres
-date: 2022-02-27T12:44:05.035Z
+date: 2022-02-22T12:44:05.035Z
 "tags ":
   - post
 image: /assets/blog/terra-luna-burn.jpg
