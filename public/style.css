@@ -277,6 +277,10 @@ section,
   padding-bottom: 10rem;
 }
 
+.contact{
+  
+}
+
 @media (min-width: 45em) {
   .hero > div {
     grid-auto-flow: column;
