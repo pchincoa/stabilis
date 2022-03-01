@@ -34,5 +34,25 @@
         });
       }
     </script>
+
+    <!-- AlgoliaSearch-netlify-frontend -->
+
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.css"
+    />
+    <script
+      type="text/javascript"
+      src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"
+    ></script>
+    <script type="text/javascript">
+      algoliasearchNetlify({
+        appId: "FMTIEI0ST4",
+        apiKey: "<YOUR_ALGOLIA_SEARCH_API_KEY>",
+        siteId: "1362a6ed-4013-4b08-8d33-ec465f3775a8",
+        branch: "main",
+        selector: "div#search",
+      });
+    </script>
   </body>
 </html>
