@@ -16,7 +16,6 @@ Mil millones de dólares en BTC serán reservados por la [Luna Foundation Guard 
 
 **1.000 millones de dólares de LUNA**
 
-
 LFG vendió 1.000 millones de dólares en tokens LUNA, el token de gobierno de la blockchain de Terra, a Jump Crypto, Three Arrows Capital, DeFiance Capital y otros inversores. 
 
 LFG fue anunciada en enero, y es una fundación sin ánimo de lucro dedicada a promover "una mayor soberanía económica, seguridad y sostenibilidad del software de código abierto y aplicaciones que ayudan a construir y promover una economía verdaderamente descentralizada." Ofrece subvenciones en las áreas de desarrollo de código abierto, crecimiento de la comunidad e investigación y desarrollo.
@@ -24,7 +23,6 @@ LFG fue anunciada en enero, y es una fundación sin ánimo de lucro dedicada a p
 Al parecer, también gestiona fondos de reserva. 
 
 **Reserva de divisas**
-
 
 "La reserva de divisas de $UST es una iniciativa de LFG para proporcionar una capa más de apoyo a la paridad de $UST utilizando activos que se consideran menos correlacionados con el ecosistema de Terra, como Bitcoin",[ anunció hoy](https://twitter.com/terra_money/status/1496162893334827014) la cuenta oficial de Terra en Twitter.
 
@@ -47,3 +45,5 @@ La capitalización de mercado de LUNA es de 20.700 millones de dólares [según 
 A principios de este mes, LFG fue llamada para apuntalar las reservas de la plataforma de ahorro DeFi de Terra, Anchor, cuya reserva de rendimiento se había agotado prácticamente. 
 
 El 17 de febrero, el cofundador de Terraform Labs, [Do Kwon, tuiteó](https://twitter.com/stablekwon/status/1494470634042060800) que las reservas se habían rellenado con un depósito de 450 millones de dólares de la stablecoin de Terra, UST.
+
+[Fuente ](https://thedefiant.io/luna-sale-ust-bitcoin/)original publicada por The Defiant.
