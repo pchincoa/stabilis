@@ -22,3 +22,7 @@ Ni son todos los que están, ni están todos los que son.\
 Puedes encontrar más información sobre las principales monedas estables por capitalización de mercado en [Coingecko](https://www.coingecko.com/en/categories/stablecoins).
 
 **Monedas estables centralizadas**
+
+Los ejemplos más reconocibles de monedas estables centralizadas son Tether (USDT), y Circle (USDC). las dos representan
+
+Para acuñar una de estas monedas estables alguien debe dar un dólar a la entidad centralizada para que lo mantenga en sus reservas. Es decir, se debe dar una condición básica para mantener la paridad 1:1
