@@ -1,5 +1,5 @@
 ---
-title: Guerra de estables
+title: Estables para una guerra anunciada
 description: El crecimiento brutal de las monedas estables ha generado una
   batalla entre aplicaciones del espacio DeFi.
 author: Ladrón de Guevara
@@ -23,10 +23,9 @@ Puedes encontrar más información sobre las principales monedas estables por ca
 
 **Monedas estables centralizadas**
 
-Los ejemplos más reconocibles de monedas estables centralizadas son Tether (USDT), y Circle (USDC). las dos representan
+Los ejemplos más populares de monedas estables centralizadas son Tether (USDT), y Circle (USDC). Ambas mantienen una estructura parecida y poseen una gran capitalización de mercado. Poco a poco USDC le ha ido ganando terreno a USDT, sobre todo desde la irrupción del mundo DeFi en la red de Ethereum, donde Circle creación de manera exponencial en 2021.
+Es importante tener claro que para acuñar una de estas monedas estables alguien aporta un dólar a la entidad centralizada para que lo mantenga en sus reservas, condición básica para mantener la paridad 1:1
 
-<<<<<<< HEAD
-Para acuñar una de estas monedas estables alguien debe dar un dólar a la entidad centralizada para que lo mantenga en sus reservas. Es decir, se debe dar una condición básica para mantener la paridad 1:1
-=======
-Para acuñar una de estas monedas estables alguien debe dar un dólar a la entidad centralizada para que lo mantenga en sus reservas. Es decir, se debe dar una condición básica para mantener la paridad  1:1
->>>>>>> 8e17f08793b1d3e641c314f85e4c28998ba2d8d6
+**DAI**
+
+Considerada la primera moneda estable descentralizada, DAI fue lanzada por [Makerdao](https://makerdao.com/en/) y está vinculada con el dólar estadounidense
