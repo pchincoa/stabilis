@@ -18,6 +18,8 @@ Como resultado de este crecimiento, y de la competencia por los usuarios del esp
 
 <h4>Ejércitos</h4>
 
+![Monedas Estables DeFi 2022](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5c78b5a-7c8b-4a0a-9cc8-dc1685863efd_3489x725.png "Monedas Estables más importantes en 2022")
+
 Ni son todos los que están, ni están todos los que son.\
 Puedes encontrar más información sobre las principales monedas estables por capitalización de mercado en [Coingecko](https://www.coingecko.com/en/categories/stablecoins).
 
@@ -29,3 +31,5 @@ Es importante tener claro que para acuñar una de estas monedas estables alguien
 **DAI**
 
 Considerada la primera moneda estable descentralizada, DAI fue lanzada por [Makerdao](https://makerdao.com/en/) y está vinculada con el dólar estadounidense. Básicamente está integrada en el ecosistema de Ethereum y puede ser generada aportando otras criptomonedas como colateral en el protocolo de Makerdao. DAI está respaldada por ETH y BAT (Basic Atention Token) pero sorpresa, sorpresa, tiene a USDC como su mayor respaldo, lo cual le permite mantener una segura paridad con el dólar. Sin embargo, este hecho la hace dependiente de una entidad centralizada (Circle y Coinbase) y rompe inicialmente con la filosofía por la que fue creada.
+
+MIM (Magic Internet Money)
