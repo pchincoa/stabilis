@@ -23,9 +23,9 @@ Puedes encontrar más información sobre las principales monedas estables por ca
 
 **Monedas estables centralizadas**
 
-Los ejemplos más populares de monedas estables centralizadas son Tether (USDT), y Circle (USDC). Ambas mantienen una estructura parecida y poseen una gran capitalización de mercado. Poco a poco USDC le ha ido ganando terreno a USDT, sobre todo desde la irrupción del mundo DeFi en la red de Ethereum, donde Circle creación de manera exponencial en 2021.
+Los ejemplos más populares de monedas estables centralizadas son [Tether](https://tether.to/en/) (USDT), y [Circle](https://www.circle.com/en/usdc) (USDC). Ambas mantienen una estructura parecida y poseen una gran capitalización de mercado. Poco a poco USDC le ha ido ganando terreno a USDT, sobre todo desde la irrupción del mundo DeFi en la red de Ethereum, donde Circle creación de manera exponencial en 2021.
 Es importante tener claro que para acuñar una de estas monedas estables alguien aporta un dólar a la entidad centralizada para que lo mantenga en sus reservas, condición básica para mantener la paridad 1:1
 
 **DAI**
 
-Considerada la primera moneda estable descentralizada, DAI fue lanzada por [Makerdao](https://makerdao.com/en/) y está vinculada con el dólar estadounidense
+Considerada la primera moneda estable descentralizada, DAI fue lanzada por [Makerdao](https://makerdao.com/en/) y está vinculada con el dólar estadounidense. Básicamente está integrada en el ecosistema de Ethereum y puede ser generada aportando otras criptomonedas como colateral en el protocolo de Makerdao. Dai en esencia está respaldada por ETH, y BAT (Basic Atention Token) pero es USDC su mayor respaldo, hecho que la convierte en dependiente de una entidad centralizada (Circle y Coinbase) que rompe inicialmente con la filosofía por la que fue creada.
