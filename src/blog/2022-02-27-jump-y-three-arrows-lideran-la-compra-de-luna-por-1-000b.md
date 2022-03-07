@@ -46,6 +46,4 @@ A principios de este mes, LFG fue llamada para apuntalar las reservas de la plat
 
 El 17 de febrero, el cofundador de Terraform Labs, [Do Kwon, tuiteó](https://twitter.com/stablekwon/status/1494470634042060800) que las reservas se habían rellenado con un depósito de 450 millones de dólares de la stablecoin de Terra, UST.
 
-
-
 [Fuente ](https://thedefiant.io/luna-sale-ust-bitcoin/)original publicada por The Defiant.
