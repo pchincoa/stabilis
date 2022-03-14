@@ -51,7 +51,7 @@ FRAX es una opción de moneda estable con algoritmo de fracciones. Para acuñar 
 
 Al igual que DAI, el grueso que respalda a FRAX se basa en USDC. Es decir, de nuevo tenemos a una estable que interactúa en ecosistemas descentralizados (principalmente ETH) pero con el respaldo institucional de un una moneda centralizada.
 
-Frax ha ido abriendo camino durante 2021 y ha desplegado su propio metapool [FRAX3CRV](https://curve.fi/frax) en Curve, el protocolo con mayor valor total bloqueado en DeFi.
+Frax se ha ido abriendo camino durante 2021 y ha desplegado su propio metapool [FRAX3CRV](https://curve.fi/frax) en Curve, el protocolo con mayor valor total bloqueado en DeFi.
 
 ![Curve-TVL](/assets/blog/curve-tvl.png "Curve-TVL")
 Fuente: [Defillama](https://defillama.com/protocol/curve)
