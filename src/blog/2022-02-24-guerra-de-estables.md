@@ -28,9 +28,9 @@ Puedes encontrar más información sobre las principales monedas estables por ca
 Los ejemplos más populares de monedas estables centralizadas son [Tether](https://tether.to/en/) (**USDT**) y [Circle](https://www.circle.com/en/usdc) (**USDC**). Ambas mantienen una estructura parecida y tiene una enorme capitalización de mercado. Poco a poco USDC le ha ido ganando terreno a USDT, sobre todo desde la irrupción del mundo DeFi en la red de Ethereum y la aparición de otras L1 como Solana o Fantom Opera.
 Es importante tener claro que para acuñar una de estas monedas estables alguien aporta un dólar a la entidad centralizada para que lo mantenga en sus reservas, condición básica para mantener la paridad 1:1
 
-La tercera estable más grande por capitalización de mercado sería BUSD. Fue creada por Binance y Paxos, una plataforma de infraestructura blockchain regulada, que es muy conocida por tokenizar el oro (PAXG).
+La tercera estable más grande por capitalización de mercado sería **BUSD**. Fue creada por Binance y Paxos, una plataforma de infraestructura blockchain regulada que es muy conocida por tokenizar el oro (PAXG).
 
-**BUSD** cumple un papel crucial dentro de la adopción del ecosistema de Binance. En 2021 creció enormemente gracias al desarrollo de la [Binance Smart Chain](https://www.bscscan.com/). Igualmente, el exchange dirido por CZ ha ido incorporando su estable como par de los tokens que tienen mayor volumen. 
+BUSD cumple un papel crucial dentro de la adopción del ecosistema de Binance. En 2021 creció enormemente gracias al desarrollo de la [Binance Smart Chain](https://www.bscscan.com/). Igualmente, el exchange dirigido por [CZ ](https://twitter.com/cz_binance)ha ido incorporando su estable como par de los tokens que tienen mayor volumen. A día de hoy, Binance sería lo más parecido a un Banco dentro del mundo crypto.
 
 **DAI**
 
