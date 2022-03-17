@@ -20,6 +20,8 @@ A diferencia de la mayoría de las monedas estables existentes, que pretenden ma
 
 Puedes hacer Yield Farming con ENG en los siguientes pools de [Osmosis](https://app.osmosis.zone/):
 
+![osmosis-DEX](https://app.osmosis.zone/public/assets/backgrounds/osmosis-guy-in-lab.png "Farming en Osmosis")
+
 \- Pool [\#464](https://app.osmosis.zone/pool/464): NGM / ATOM
 
 \- Pool[\#461](https://app.osmosis.zone/pool/461): NGM / EEUR
@@ -28,11 +30,11 @@ Puedes hacer Yield Farming con ENG en los siguientes pools de [Osmosis](https://
 
 
 
-Si quieres minimizar el riesgo y farmear solo con monedas estables:\
-\
-- Pool [\#567](https://app.osmosis.zone/pool/567): EEUR / UST
+Si quieres minimizar el riesgo y farmear solo con monedas estables:
+
+\- Pool [\#567](https://app.osmosis.zone/pool/567): EEUR / UST
 
 
 
 Parte de este artículo es una traducción de:\
-[**Nord Finance explores e-Money’s suite of stablecoins** ](https://medium.com/e-money-com/nord-finance-explores-e-moneys-suite-of-stablecoins-a1f6ecd32783)
+[Nord Finance explores e-Money’s suite of stablecoins ](https://medium.com/e-money-com/nord-finance-explores-e-moneys-suite-of-stablecoins-a1f6ecd32783)
