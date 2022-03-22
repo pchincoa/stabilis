@@ -58,4 +58,6 @@ Al igual que DAI, el grueso que respalda a FRAX se basa en USDC. Es decir, de nu
 Frax se ha ido abriendo camino durante 2021 y ha desplegado su propio metapool [FRAX3CRV](https://curve.fi/frax) en Curve, el protocolo con mayor valor total bloqueado en DeFi.
 
 ![Curve-TVL](/assets/blog/curve-tvl.png "Curve-TVL")
-Fuente: [Defillama](https://defillama.com/protocol/curve)
+Fuente: [Defillama](https://defillama.com/protocol/curve)\
+Parte de este artículo es una traducción de:\
+[](https://medium.com/e-money-com/nord-finance-explores-e-moneys-suite-of-stablecoins-a1f6ecd32783)[The Stablecoin Wars Are Upon Us](https://blog.cryptostars.is/the-stablecoin-wars-are-upon-us-801e51ef62da)
